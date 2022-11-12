@@ -1,0 +1,4 @@
+npm i react-mde --legacy-peer-deps
+npm i showdown --legacy-peer-deps
+npm i react-split --legacy-peer-deps
+npm i nanoid --legacy-peer-deps
