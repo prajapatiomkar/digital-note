@@ -1,4 +1,4 @@
-# [Digital Note](https://digital-note.netlify.app/)
+# Digital Note
 
 ![image](https://github.com/prajapatiomkar/digital-note/assets/72141037/a285c943-14a7-4ffe-8ac8-e449d974aae4)
 
